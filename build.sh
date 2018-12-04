@@ -1,3 +1,1 @@
-HI
-test script
-
+echo "Hellooo"$Name
